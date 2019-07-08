@@ -1,0 +1,27 @@
+_repo: Kangaroo_59848
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lawrence, D. H. (David Herbert)
+    aliases:
+    - Lawrence, D.H.
+    - Lawrence, David Herbert
+    - Davison, Lawrence H. (Lawrence Herbert)
+    birthdate: 1885
+    deathdate: 1930
+    gutenberg_agent_id: '123'
+    url: http://www.gutenberg.org/2009/agents/123
+    wikipedia: http://en.wikipedia.org/wiki/D._H._Lawrence
+description: ''
+gutenberg_issued: '2019-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Kangaroo
+url: http://www.gutenberg.org/ebooks/59848
